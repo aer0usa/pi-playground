@@ -1,0 +1,19 @@
+{
+  "name": "blinkt-js",
+  "version": "0.0.1",
+  "description": "Control Blink on Pi Zero with Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "keywords": [
+    "blinkt",
+    "node"
+  ],
+  "author": "Eric",
+  "license": "ISC",
+  "dependencies": {
+    "expressjs": "^1.0.1",
+    "node-blinkt": "^1.0.1"
+  }
+}
